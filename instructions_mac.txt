@@ -1,0 +1,20 @@
+Mystvale v0.2 for Mac OS
+
+* * This game is currently in development, help us build this game by sending us any errors or bugs you might encounter * *
+
+            * *      Download the archive       * *
+
+                     Extract the archive:
+
+            For .tar.gz: "tar -xzvf mystvale.tar.gz"
+                 For .zip: "unzip mystvale.zip"
+
+         Allow the program to run (if blocked by macOS).
+
+     Go to the extracted folder: "cd /path/to/mystvale-bundle"
+
+                  Run the program: "./mystvale"
+
+     * * If you found any bugs, Please let us know! * *
+             
+                 mystvaleofficial@gmail.com
